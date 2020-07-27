@@ -28,7 +28,7 @@ namespace CodingEventsAPI {
             "v1",
             new OpenApiInfo {
               Version = "v1",
-              Title = "Coding Events API",
+              Title = "Morrison's Coding Events API",
               Description = "REST API for managing Coding Events"
             }
           );
