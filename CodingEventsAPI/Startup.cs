@@ -29,7 +29,7 @@ namespace CodingEventsAPI {
             new OpenApiInfo {
               Version = "v1",
               Title = "Morrison's Coding Events API",
-              Description = "REST API for managing Coding Events"
+              Description = "REST API for managing Coding Events. Changes made 07/27/2020."
             }
           );
         }
