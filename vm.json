@@ -2,14 +2,14 @@
   "fqdns": "",
   "id": "/subscriptions/4f8d61e4-9139-404f-af6d-f4c42b87c067/resourceGroups/will-9-lc-rg/providers/Microsoft.Compute/virtualMachines/will-9-lc-rg",
   "identity": {
-    "systemAssignedIdentity": "8d249988-38c7-4246-93d8-b661ae6f7f8e",
+    "systemAssignedIdentity": "da8b181a-6ee3-41f5-9e45-edd9c2df49be",
     "userAssignedIdentities": {}
   },
   "location": "eastus",
-  "macAddress": "00-22-48-20-3C-2E",
+  "macAddress": "00-22-48-22-03-E9",
   "powerState": "VM running",
   "privateIpAddress": "10.0.0.4",
-  "publicIpAddress": "52.149.212.165",
+  "publicIpAddress": "52.149.158.50",
   "resourceGroup": "will-9-lc-rg",
   "zones": ""
 }
